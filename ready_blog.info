@@ -1,0 +1,58 @@
+name = Ready Blog
+description = Install with Ready Blog used features pre-configured.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contact
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = statistics
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+
+
+dependencies[] = ctools
+dependencies[] = likebtn
+dependencies[] = nice_menus
+dependencies[] = omega_tools
+dependencies[] = panels
+dependencies[] = special_menu_items
+dependencies[] = views
+dependencies[] = views_infinite_scroll
+dependencies[] = votingapi
+dependencies[] = wysiwyg
+
+
+dependencies[] = page_manager
+dependencies[] = views_content
+dependencies[] = views_ui
+
+
+dependencies[] = features
+dependencies[] = strongarm
+dependencies[] = readyblog
+dependencies[] = custom_blocks
+
+
+; Information added by Drupal.org packaging script on 2014-08-06
+version = "7.31"
+project = "drupal"
+datestamp = "1407346433"
+
